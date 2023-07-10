@@ -47,5 +47,5 @@ GIS is a powerful tool that can be used to solve all sorts of problems. It's use
 ## Geological Maps
 ![alt text](/Images/Geologic_map.png)
 
-![alt text](/Images/Geologic_Map.png)
+![alt text](/Images/Geological_Map.png)
 
