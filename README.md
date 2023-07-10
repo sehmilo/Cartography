@@ -16,4 +16,36 @@ GIS can be used to do all sorts of things, like:
   
 GIS is a powerful tool that can be used to solve all sorts of problems. It's used by a wide variety of people, from scientists to city planners to businesses.
 
+## Spatial Analysis
+
+![alt text](/Images/nitrate_index_bubble.png)
+
+![alt text](/Images/nitrate_concentration.png)
+
+
+## Thematic Maps
+
+![alt text](/Images/Elevation.png)
+
 ![alt text](/Images/Slope.png)
+
+![alt text](/Images/Drainage Density.png)
+
+![alt text](/Images/LULC.png)
+
+## Carto-
+
+![alt text](/Images/Topo.png)
+
+![alt text](/Images/DrainageMap.png)
+
+![alt text](/Images/Lagos_Rivers.png)
+
+![alt text](/Images/Ibeju_Lekki.png)
+
+
+## Geological Maps
+![alt text](/Images/Geologic_map.png)
+
+![alt text](/Images/Geologic_Map.png)
+
