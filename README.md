@@ -36,6 +36,10 @@ Find below use cases and Maps created within the GIS environment :point_down:;
 
 ## Carto-
 
+![alt text](/Images/Thailand-LC-01.jpg)
+
+![alt text](/Images/LC-Original.jpg)
+
 ![alt text](/Images/Topo.png)
 
 ![alt text](/Images/DrainageMap.png)
