@@ -16,5 +16,4 @@ GIS can be used to do all sorts of things, like:
   
 GIS is a powerful tool that can be used to solve all sorts of problems. It's used by a wide variety of people, from scientists to city planners to businesses.
 
-
-	![alt text](image.jpg)
+![alt text](/Images/Slope.png)
