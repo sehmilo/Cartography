@@ -42,7 +42,7 @@ Find below use cases and Maps created within the GIS environment :point_down:;
 
 ![alt text](/Images/Lagos_Rivers.png)
 
-![alt text](/Images/Ibeju_Lekki.png)
+![alt text](/Images/Ibeju_Lekkki.png)
 
 
 ## Geological Maps
