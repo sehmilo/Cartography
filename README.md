@@ -1,8 +1,9 @@
 # GIS-Projects
 ## Introduction
-“Everything is related to everything else, but near things are more related than distant things.” ~ Tobler’s First Law of Geography
+*“Everything is related to everything else, but near things are more related than distant things.” ~ Tobler’s First Law of Geography*
+
  
-Geographic Information Systems (GIS) is a computer system that helps us see, understand, and work with information about the Earth.
+**Geographic Information Systems** (GIS) is a computer system that helps us see, understand, and work with information about the Earth.
 
 GIS has its applications cut across several fields and disciplines, and can be used to do all sorts of things, like:
 
