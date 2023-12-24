@@ -4,16 +4,17 @@
 
 ## Spatial Analysis
 
-![alt text](/Images/nitrate_index_bubble.png)
+![alt text](/Images/Thematic/nitrate_index_bubble.png)
+
 
 ![alt text](/Images/nitrate_concentration.png)
 
 
 ## Thematic Maps
 
-![alt text](/Images/Elevation.png)
+![alt text](/Images/Thematic/Elevation.png)
 
-![alt text](/Images/Slope.png)
+![alt text](/Images/Thematic/Slope.png)
 
 ![alt text](/Images/Drainage Density.png)
 
@@ -21,11 +22,11 @@
 
 ## Carto-
 
-![alt text](/Images/Thailand-LC-01.jpg)
+![alt text](/Images/Topograpic/Thailand-LC-01.jpg)
 
 ![alt text](/Images/LC-Original.jpg)
 
-![alt text](/Images/Topo.png)
+![alt text](/Images/Topographic/Topo.png)
 
 ![alt text](/Images/DrainageMap.png)
 
