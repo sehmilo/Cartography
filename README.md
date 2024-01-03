@@ -7,7 +7,7 @@
 ![alt text](/Images/Thematic/nitrate_index_bubble.png)
 
 
-![alt text](/Images/nitrate_concentration.png)
+![alt text](/Images/Thematic/nitrate_concentration.png)
 
 
 ## Thematic Maps
@@ -16,27 +16,27 @@
 
 ![alt text](/Images/Thematic/Slope.png)
 
-![alt text](/Images/Drainage Density.png)
+![alt text](/Images/Thematic/Drainage Density.png)
 
-![alt text](/Images/LULC.png)
+![alt text](/Images/Thematic/LULC.png)
 
 ## Carto-
 
-![alt text](/Images/Topograpic/Thailand-LC-01.jpg)
+![alt text](/Images/Topographic/Thailand-LC-01.jpg)
 
-![alt text](/Images/LC-Original.jpg)
+![alt text](/Images/Topographic/LC-Original.jpg)
 
 ![alt text](/Images/Topographic/Topo.png)
 
-![alt text](/Images/DrainageMap.png)
+![alt text](/Images/Thematic/DrainageMap.png)
 
-![alt text](/Images/Lagos_Rivers.png)
+![alt text](/Images/Topographic/Lagos_Rivers.png)
 
-![alt text](/Images/Ibeju_Lekkki.png)
+![alt text](/Images/Topographic/Ibeju_Lekkki.png)
 
 
 ## Geological Maps
-![alt text](/Images/Geologic_map.png)
+![alt text](/Images/Thematic/Geologic_map.png)
 
-![alt text](/Images/Geological_Map.png)
+![alt text](/Images/Thematic/Geological_Map.png)
 
