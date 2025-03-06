@@ -1,6 +1,9 @@
-# GIS-Projects
+# Cartography
 ## Introduction
 *“Everything is related to everything else, but near things are more related than distant things.” ~ Tobler’s First Law of Geography*
+
+Over the years I have made maps for personal use, work related, and projects for clients. Below are some of the maps I've made from my earlier GIS days till now.
+I have intentionally left the very bad maps to show how I have improved over the years.
 
 ## Spatial Analysis
 
