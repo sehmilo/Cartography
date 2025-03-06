@@ -2,8 +2,8 @@
 ## Introduction
 *“Everything is related to everything else, but near things are more related than distant things.” ~ Tobler’s First Law of Geography*
 
-Over the years I have made maps for personal use, work related, and projects for clients. Below are some of the maps I've made from my earlier GIS days till now.
-I have intentionally left the very bad maps to show how I have improved over the years.
+From personal explorations to client projects, my journey in GIS mapping has been a terrain of growth. Each map—good, bad, and everything in between—tells a story of skill, refinement, and discovery. 
+Here’s a collection of my cartographic evolution, showcasing how my maps have transformed over time.
 
 ## Spatial Analysis
 
