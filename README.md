@@ -8,6 +8,9 @@ Here’s a collection of my cartographic evolution, showcasing how my maps have 
 # Georeferenced
 ![3D vintage of Jalingo](Images/3D_VintageJalingo.jpg)
 
+# Isometric Maps
+![Isometric map of Ikoyi Nigeria](Images/iso_Ikoyi.jpeg)
+
 
 ## Spatial Analysis
 
