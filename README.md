@@ -5,6 +5,10 @@
 From personal explorations to client projects, my journey in GIS mapping has been a terrain of growth. Each map—good, bad, and everything in between—tells a story of skill, refinement, and discovery. 
 Here’s a collection of my cartographic evolution, showcasing how my maps have transformed over time.
 
+# Georeferenced
+![3D vintage of Jalingo](Images/3D_VintageJalingo.jpg)
+
+
 ## Spatial Analysis
 
 ![alt text](/Images/Thematic/nitrate_index_bubble.png)
