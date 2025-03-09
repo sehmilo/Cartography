@@ -29,6 +29,7 @@ Here’s a collection of my cartographic evolution, showcasing how my maps have 
 
 
 ## Thematic Maps
+![VEI](Images/VEI_Circumpacific.png)
 
 ![alt text](/Images/Thematic/Elevation.png)
 
