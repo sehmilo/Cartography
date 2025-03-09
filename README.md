@@ -9,6 +9,9 @@ Here’s a collection of my cartographic evolution, showcasing how my maps have 
 
 ![Map of Massachussets](Images/Massuchessets.jpg)
 
+![Top Ten Earthquakes](Images/TopTenEarthquakes.jpeg)
+
+
 
 # Georeferenced
 ![3D vintage of Jalingo](Images/3D_VintageJalingo.jpg)
