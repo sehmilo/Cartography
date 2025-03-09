@@ -7,6 +7,8 @@ Here’s a collection of my cartographic evolution, showcasing how my maps have 
 
 ![Pop Density New York](Images/TopoLayoutNY.jpg)
 
+![Map of Massachussets](Images/Massuchessets.jpg)
+
 
 # Georeferenced
 ![3D vintage of Jalingo](Images/3D_VintageJalingo.jpg)
