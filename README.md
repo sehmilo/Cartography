@@ -5,13 +5,13 @@
 From personal explorations to client projects, my journey in GIS mapping has been a terrain of growth. Each map—good, bad, and everything in between—tells a story of skill, refinement, and discovery. 
 Here’s a collection of my cartographic evolution, showcasing how my maps have transformed over time.
 
+![3D Map Gashaka](Images/Gashaka.jpg)
+
 ![Pop Density New York](Images/TopoLayoutNY.jpg)
 
 ![Map of Massachussets](Images/Massuchessets.jpg)
 
 ![Top Ten Earthquakes](Images/TopTenEarthquakes.jpeg)
-
-
 
 # Georeferenced
 ![3D vintage of Jalingo](Images/3D_VintageJalingo.jpg)
