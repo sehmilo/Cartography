@@ -7,6 +7,8 @@ Here’s a collection of my cartographic evolution, showcasing how my maps have 
 
 ![3D Map Gashaka](Images/Gashaka.jpg)
 
+![Trippy layer](Images/TrippyLayer.jpg)
+
 ![Pop Density New York](Images/TopoLayoutNY.jpg)
 
 ![Map of Massachussets](Images/Massuchessets.jpg)
